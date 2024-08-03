@@ -1,0 +1,24 @@
+/* src/App.css */
+.welcome-page, .home-screen {
+  text-align: center;
+  padding: 20px;
+}
+
+button {
+  margin: 10px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input {
+  margin: 10px;
+  padding: 10px;
+}
+
+.profile, .roadmap, .achievements {
+  margin: 20px;
+}
